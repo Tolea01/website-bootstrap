@@ -12,4 +12,13 @@ body{
     background: -moz-linear-gradient(#dadaef, #8e9198);
     background: linear-gradient(#dadaef, #8e9198);
     height: 50px;
+    line-height: 30px;
+}
+
+.nav-link{
+    font-size: 16px;
+}
+
+.nav-link:hover, .nav-link:focus{
+    color: rgb(148, 17, 34);
 }
