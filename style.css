@@ -1,7 +1,11 @@
-/*.text-center{
-    font-size: 80px;
+.text-center{
+    /*font-size: 100px;*/
+    font-size: calc(20px + 80 * (100vw / 1400));
     margin-top: 200px;
     text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
     color: white;
-}*/
+}
 
+.btn-primary{
+    position: fixed;
+}
