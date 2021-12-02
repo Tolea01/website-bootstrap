@@ -37,3 +37,25 @@ p#text{
 button#space{
     margin-left: 15px;
 }
+
+.line2{
+    height: 2px;
+    width: 500px;
+    background-color: white;
+    margin-top: 30px;
+}
+
+span{
+    font-size: 33px;
+    font-weight: 500;
+    color: white;
+}
+
+.price{
+    margin-top: 20px;
+}
+
+.btn-primary{
+    margin-left: 15px;
+    margin-top: -15px;
+}
