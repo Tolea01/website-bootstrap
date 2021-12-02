@@ -16,7 +16,7 @@
 
 .line{
     height: 2px;
-    width: 500px;
+    width: 270px;
     background-color: white;
 }
 
@@ -35,27 +35,31 @@ p#text{
 }
 
 button#space{
-    margin-left: 15px;
+    margin-left: 10px;
+    
+    
 }
 
 .line2{
     height: 2px;
-    width: 500px;
+    width: 270px;
     background-color: white;
     margin-top: 30px;
 }
 
 span{
-    font-size: 33px;
+    font-size: 30px;
     font-weight: 500;
     color: white;
 }
 
 .price{
     margin-top: 20px;
+    position: absolute;
 }
 
 .btn-primary{
     margin-left: 15px;
-    margin-top: -15px;
+    position: absolute;
 }
+
