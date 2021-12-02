@@ -33,3 +33,7 @@ p#text{
 .btn-light, .btn-dark{
     margin-left: 15px;
 }
+
+button#space{
+    margin-left: 15px;
+}
