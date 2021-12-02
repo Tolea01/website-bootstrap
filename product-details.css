@@ -7,3 +7,29 @@
     text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
     color: white;
 }
+
+.text-start{
+    font-size: 19px;
+    color: white;
+    margin-top: 50px;
+}
+
+.line{
+    height: 2px;
+    width: 500px;
+    background-color: white;
+}
+
+p#text{
+    margin-top: 30px;
+}
+
+.btn-danger, .btn-light, .btn-dark{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
+
+.btn-light, .btn-dark{
+    margin-left: 15px;
+}
