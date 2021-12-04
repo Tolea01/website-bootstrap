@@ -1,6 +1,14 @@
+body{
+    background-image: url('img/dev1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .text-center{
     /*font-size: 100px;*/
-    font-size: calc(20px + 80 * (100vw / 1400));
+    font-size: calc(20px + 80 * (100vw / 1500));
     margin-top: 200px;
     text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
     color: white;
