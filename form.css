@@ -2,10 +2,14 @@
     margin-top: 15px;
 }
 
-.form-control, .form-select{
+input#form, .form-select{
     height: 50px;
 }
 
 textarea.form-control{
     height: 150px;
+}
+
+.modal-body{
+    color: rgb(15, 156, 15);
 }
