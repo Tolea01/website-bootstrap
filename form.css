@@ -2,6 +2,10 @@
     margin-top: 15px;
 }
 
-.form-control{
+.form-control, .form-select{
     height: 50px;
+}
+
+textarea.form-control{
+    height: 150px;
 }
